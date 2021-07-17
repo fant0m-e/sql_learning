@@ -1,3 +1,6 @@
 -- database = any collection of related information
 -- DBMS = database management system
 -- CRUD = create, read, update, delete
+-- TWO TYPES OF DB'S -
+-- Relational DB (SQL) - each table has columns/rows, unique key ID's each row
+-- Non-relational (noSQL) - anything (data) other than traditional table: documents, graphs, flexible tables, etc.
