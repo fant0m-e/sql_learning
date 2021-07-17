@@ -1,0 +1,3 @@
+-- database = any collection of related information
+-- DBMS = database management system
+-- CRUD = create, read, update, delete
