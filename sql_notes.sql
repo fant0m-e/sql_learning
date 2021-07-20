@@ -4,3 +4,9 @@
 -- TWO TYPES OF DB'S -
 -- Relational DB (SQL) - each table has columns/rows, unique key ID's each row
 -- Non-relational (noSQL) - anything (data) other than traditional table: documents, graphs, flexible tables, etc.
+-- Query = request made to the dbms for specific information
+-- always need a column with a PRIMARY KEY that uniquely defines the row
+-- surrogate ID = used just to represent someone in a table, an otherwise useless primary key
+-- natural ID = primary key that has mapping to real world (ie SSN)
+-- foreign key = attribute stored in table that can link to another table (primary key inside of different table)
+-- composite id = several columns together uniquely identify a given row
